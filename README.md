@@ -5,13 +5,13 @@
 </p>
 
 🔭 **Currently working on:**  
-💡 Frontend ve backend geliştirme (Node.js & React.js), Linux sunucu yönetimi ve dağıtım süreçleri.
+💡 Frontend and backend development (Node.js & React.js), Linux server management and deployment processes.
 
 🌱 **Currently learning:**  
-🚀 Performans optimizasyonu, güvenlik pratikleri ve sistem mimarisi.
+🚀 Performance optimization, security practices and system architecture.
 
 👯 **Open to collaborate on:**  
-🌍 Web uygulamaları, full-stack projeler ve backend sistemleri.
+🌍 Web applications, full-stack projects and backend systems.
 
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melek_Okman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/melek-okman-a35644340)  
